@@ -6,4 +6,5 @@ as important as giant particles for precipitation flux of marine strotocumulus c
 **Jensen et al. (2017) Condensational Growth of Drops Formed on Giant Sea-Salt Aerosol Particles:** 
 ## Cloud processing and aerosol optical properties
 ## Sulfate aqueous chemistry and particle acidity
-## Aerosol modeling
+## Aerosol modeling and machine learning 
+**[Sam Silva et al.(2021)](https://gmd.copernicus.org/articles/14/3067/2021/gmd-14-3067-2021.html) Physically regularized machine learning emulators of aerosol activation:**
