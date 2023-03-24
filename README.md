@@ -8,3 +8,6 @@ as important as giant particles for precipitation flux of marine strotocumulus c
 ## Sulfate aqueous chemistry and particle acidity
 ## Aerosol modeling and machine learning 
 **[Sam Silva et al.(2021)](https://gmd.copernicus.org/articles/14/3067/2021/gmd-14-3067-2021.html) Physically regularized machine learning emulators of aerosol activation:**
+
+## Climate model analysis (CESM/E3SM)
+**[Rasch et al. (2019)] (https://doi.org/10.1029/2019MS001629): An Overview of the Atmospheric Component of the Energy Exascale Earth System Model**
