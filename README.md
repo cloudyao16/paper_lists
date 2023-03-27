@@ -12,6 +12,13 @@ as important as giant particles for precipitation flux of marine strotocumulus c
 ## Climate model analysis (CESM/E3SM)
 **[Rasch et al. (2019)](https://doi.org/10.1029/2019MS001629): An Overview of the Atmospheric Component of the Energy Exascale Earth System Model**
 
+This paper review the EAM in E3SM, and compare the simulated results with CAM5 and reanalysis data.
+
+**SWCRE** are weaker in both EAMv1 and CAM, and it is associated with supercooled liquid water fraction in mix-phased clouds. EAMv1 simulated more supercooled liquid cloud water because of lower rates of liquid to ice phase through WBF scheme, and the new CNT ice nuleation scheme simulated less INPs.
+
+Surface precipitation: summer - winter to check **monsoon strength**. Apri/May - Oct/Nov to check equinox month. 
+
+
 **[Ma et al. (2022)](https://doi.org/10.5194/gmd-15-2881-2022): Better calibration of cloud parameterizations and subgrid effects increases the fidelity of the E3SM Atmosphere Model version 1**
 
 **[Feng et al. (2021)](10.1029/2021MS002909):Global Dust Cycle and Direct Radiative Effect in E3SM Version 1: Impact of Increasing Model Resolution**
